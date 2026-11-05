@@ -1,0 +1,37 @@
+# Go Forward Programmation
+
+> Go Forward est une programmation CrossFit et de préparation physique en ligne, en français, créée par Clément Chéreau (sapeur-pompier professionnel, CrossFit Level 1 & Level 2, Master IRHPM, enseignant en activité physique adaptée). Les séances sont suivies sur l'application Strivee.
+
+Approche : cycles de 3 semaines, équilibre haltérophilie / gymnastique / conditioning, renforcement des antagonistes et prévention des blessures intégrés, progression sur le long terme.
+
+## Programmations
+
+- [GF Athlètes](https://train.strivee.app/fr/program/FEyrRCor2bPTjDDfxggW) : programmation CrossFit compétition, 6 jours/semaine, à partir de 20 €/mois.
+- [L'Essentielle](https://train.strivee.app/fr/program/ogcmXxv3qTJQZlbwVO4x) : programmation CrossFit accessible à tous niveaux, débutants inclus, 6 jours/semaine, à partir de 10 €/mois. Convient aussi comme préparation physique générale (PPG).
+- Premium Perso : programmation 100 % personnalisée avec suivi, à partir de 50 €, sur devis (goforwardprog@gmail.com).
+- [Forces d'intervention](https://train.strivee.app/fr/program/WdYHjESomi0qyPzzwrEf) : préparation physique pour pompiers, policiers, gendarmes et militaires (maintien des capacités opérationnelles, concours, changement de section), cycles de force, peu de matériel, à partir de 20 €/mois, 2 semaines d'essai offertes.
+- [Préparation aux concours SPP](https://train.strivee.app/fr/program/6kvbbAUgCIYzyvIUIWJS) : préparation aux épreuves sportives du concours de sapeur-pompier professionnel, programme de 12 semaines, 4 jours/semaine, 40 €.
+- Programmations spécifiques : pull-ups strictes Bloc 1 et Bloc 2 (50 € chacun, pack 85 €), [Back Squat Go Forward Cluster](https://train.strivee.app/fr/program/N6EFqo6iJSUpRfH07YCZ) (99 €, 2 séances/semaine, méthode cluster), Bodybuilding haut du corps Bloc 1 et Bloc 2 (3 mois, 30 € chacun, [pack 50 €](https://train.strivee.app/fr/program/BC4M5KMHoSUUisF0azHb)).
+
+Toutes les programmations sont sans engagement. L'Essentielle a une version maison pour toutes les séances ; GF Athlètes se fait avec un équipement de musculation classique ; Forces d'intervention demande peu de matériel. 2 semaines de programmation d'essai offertes sur demande via le site.
+
+GF Athlètes, L'Essentielle et Forces d'intervention sont aussi disponibles en abonnement trimestriel, semestriel ou annuel : à l'année, 2 mois sont offerts.
+
+## Liens
+
+- [Site officiel](https://goforward-prog.com/)
+- [Toutes les programmations sur Strivee](https://train.strivee.app/fr/p/goforward)
+- [Instagram @goforward_prog](https://www.instagram.com/goforward_prog/)
+- Contact : goforwardprog@gmail.com · 06 83 63 29 53
+
+## Blog
+
+- [Barème Luc Léger : les paliers à atteindre au concours pompier et police](https://goforward-prog.com/blog/bareme-luc-leger/) : barème Luc Léger du concours de sapeur-pompier professionnel (20/20 au palier 14 hommes / 11 femmes ; 10/20 au palier 11 / 8 + 30 s) et repères gardien de la paix (seuil éliminatoire 7/20 au palier 6 + 30 s hommes / 4 + 15 s femmes), déroulement du test et méthode pour progresser.
+- [Overreaching et deload : pourquoi on se surcharge avant de récupérer](https://goforward-prog.com/blog/deload-overreaching/) : L'overreaching est une surcharge volontaire et courte de l'entraînement ; le deload, une période de charge réduite pour évacuer la fatigue. Définitions (consensus ECSS/ACSM 2013, Delphi 2023), exemple Go Forward (deload à 40-65 % du 1RM, 2 à 3 séries, RPE 5-6/10) et erreurs à éviter.
+- [Cluster set : la méthode pour faire plus de volume lourd sans sacrifier la technique](https://goforward-prog.com/blog/cluster-set/) : Découper une série lourde en mini-séries de 2 reps avec 15 secondes de pause : c'est le principe du cluster set. Charges (88 à 93 % du 1RM), temps de repos, exemple Go Forward 5 × (2+2+2) à 90 %, et ce que dit la recherche.
+- [Gendarme mobile : Mathieu raconte ses 2 ans avec la programmation Go Forward](https://goforward-prog.com/blog/temoignage-gendarme-mobile-programmation-go-forward/) : Mathieu, 32 ans, gendarme mobile, suit Go Forward depuis 2 ans. Avant, il stagnait et perdait sa motivation. Il raconte ce qui a changé avec une programmation structurée et un vrai suivi.
+- [Concours police et gendarmerie : comment préparer les épreuves physiques](https://goforward-prog.com/blog/preparation-physique-concours-police-gendarmerie/) : Parcours d'habileté motrice, Luc Léger, simulation de combat… Ce qui t'attend aux épreuves sportives des concours de gardien de la paix et de sous-officier de gendarmerie, et comment t'y préparer.
+- [Concours sapeur-pompier professionnel : les épreuves sportives et comment s'y préparer](https://goforward-prog.com/blog/epreuves-sportives-concours-sapeur-pompier-professionnel/) : Natation, parcours professionnel adapté, Luc Léger : le détail des épreuves sportives du concours de sapeur-pompier professionnel, le barème et comment t'y préparer.
+- [Comment débloquer ta première pull-up stricte](https://goforward-prog.com/blog/premiere-pull-up-stricte/) : Tu bloques sur ta première traction stricte ? La progression, les exercices clés et les erreurs à éviter pour enfin passer le menton au-dessus de la barre.
+- [Tu fais du CrossFit mais pas de renfo ? Voilà pourquoi c'est une erreur](https://goforward-prog.com/blog/renforcement-musculaire-crossfit/) : Prévention des blessures, points faibles, progression sur les WODs : pourquoi le renfo est indispensable en CrossFit, et comment l'intégrer sans y passer des heures.
+- [Programmation CrossFit en ligne : comment bien choisir la tienne](https://goforward-prog.com/blog/choisir-programmation-crossfit-en-ligne/) : Structure, niveau, équilibre, coach, suivi : les critères pour choisir une programmation CrossFit en ligne qui te fait vraiment progresser, et les signaux d'alerte.
