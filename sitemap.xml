@@ -2,11 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://goforward-prog.com/</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-10</lastmod>
   </url>
   <url>
     <loc>https://goforward-prog.com/blog/</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-10</lastmod>
+  </url>
+  <url>
+    <loc>https://goforward-prog.com/blog/temoignage-romain-programmation-crossfit/</loc>
+    <lastmod>2026-11-10</lastmod>
+  </url>
+  <url>
+    <loc>https://goforward-prog.com/blog/myo-reps/</loc>
+    <lastmod>2026-11-10</lastmod>
   </url>
   <url>
     <loc>https://goforward-prog.com/blog/bareme-luc-leger/</loc>
@@ -14,7 +22,7 @@
   </url>
   <url>
     <loc>https://goforward-prog.com/blog/deload-overreaching/</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-10</lastmod>
   </url>
   <url>
     <loc>https://goforward-prog.com/blog/cluster-set/</loc>
